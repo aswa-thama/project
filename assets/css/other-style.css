@@ -59,6 +59,7 @@
 @media (max-width: 600px) {
   .row_index {
     display: none;
+    margin: 0;
   }
 }
 .clean-block.clean-hero {
@@ -71,8 +72,3 @@
   }
 }
 
-@media (max-width: 600px) {
-  .row {
-    margin: 0 0 0 0;
-  }
-}
