@@ -57,7 +57,7 @@
 
 
 @media (max-width: 600px) {
-  .row {
+  .row_index {
     display: none;
   }
 }
@@ -72,7 +72,7 @@
 }
 
 @media (max-width: 600px) {
-  .row-index {
+  .row {
     margin: 0 0 0 0;
   }
 }
